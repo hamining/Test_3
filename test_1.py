@@ -3,7 +3,7 @@ print("hello_2")
 
 import pandas as pd 
 import streamlit as st
-import openpyxl
+import openpyxl as op 
 
 st.set_page_config(page_title="Streamlit_TEST")
 st.title('Python test')
