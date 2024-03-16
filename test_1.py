@@ -5,9 +5,11 @@ import pandas as pd
 import streamlit as st
 
 st.set_page_config(page_title="Streamlit_TEST")
-st.title('Python 공부')
+st.title('Python test')
 
-st.write("파이써으로 웹사이트가 뚝닥?")
+
+st.write("열심히 포기하지 말고 아자자!")
+
 
 # Title of the app
 st.title('Excel/CSV File Data Viewer')
